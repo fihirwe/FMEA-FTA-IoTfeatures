@@ -1,0 +1,372 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?p2f version='1.0.0'?>
+<p2f version='1.0.0'>
+  <ius size='34'>
+    <iu id='org.eclipse.viatra.transformation.evm.transactions.feature.feature.group' name='EMF Transactions Integration for EVM' version='1.7.2.201803211255'>
+      <repositories size='7'>
+        <repository location='http://download.eclipse.org/viatra/updates/release/1.7.2'/>
+        <repository location='http://download.eclipse.org/releases/2021-03'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.2.1'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.4.1'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.3.2'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.5.0'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.6.0'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.viatra.transformation.evm.transactions.feature.source.feature.group' name='EMF Transactions Integration for EVM Developer Resources' version='1.7.2.201803211255'>
+      <repositories size='7'>
+        <repository location='http://download.eclipse.org/viatra/updates/release/1.7.2'/>
+        <repository location='http://download.eclipse.org/releases/2021-03'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.2.1'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.4.1'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.3.2'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.5.0'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.6.0'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.viatra.integration.gmf.feature.feature.group' name='GMF Integration for VIATRA' version='1.7.2.201803211255'>
+      <repositories size='6'>
+        <repository location='http://download.eclipse.org/viatra/updates/release/1.7.2'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.2.1'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.4.1'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.3.2'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.5.0'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.6.0'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.viatra.integration.gmf.feature.source.feature.group' name='GMF Integration for VIATRA Developer Resources' version='1.7.2.201803211255'>
+      <repositories size='6'>
+        <repository location='http://download.eclipse.org/viatra/updates/release/1.7.2'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.2.1'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.4.1'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.3.2'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.5.0'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.6.0'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.viatra.integration.graphiti.feature.feature.group' name='Graphiti Support for VIATRA (Incubation)' version='0.17.2.201803211255'>
+      <repositories size='6'>
+        <repository location='http://download.eclipse.org/viatra/updates/release/1.7.2'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.2.1'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.4.1'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.3.2'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.5.0'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.6.0'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.viatra.integration.graphiti.feature.source.feature.group' name='Graphiti Support for VIATRA (Incubation) Developer Resources' version='0.17.2.201803211255'>
+      <repositories size='6'>
+        <repository location='http://download.eclipse.org/viatra/updates/release/1.7.2'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.2.1'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.4.1'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.3.2'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.5.0'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.6.0'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.viatra.integration.uml.feature.feature.group' name='UML Support for VIATRA (Incubation)' version='1.7.2.201803211255'>
+      <repositories size='6'>
+        <repository location='http://download.eclipse.org/viatra/updates/release/1.7.2'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.2.1'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.4.1'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.3.2'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.5.0'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.6.0'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.viatra.integration.uml.feature.source.feature.group' name='UML Support for VIATRA (Incubation) Developer Resources' version='1.7.2.201803211255'>
+      <repositories size='6'>
+        <repository location='http://download.eclipse.org/viatra/updates/release/1.7.2'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.2.1'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.4.1'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.3.2'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.5.0'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.6.0'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.viatra.addon.databinding.runtime.feature.feature.group' name='VIATRA Data Binding Integration' version='1.7.2.201803211255'>
+      <repositories size='7'>
+        <repository location='http://download.eclipse.org/viatra/updates/release/1.7.2'/>
+        <repository location='http://download.eclipse.org/releases/2021-03'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.2.1'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.4.1'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.3.2'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.5.0'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.6.0'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.viatra.addon.databinding.runtime.feature.source.feature.group' name='VIATRA Data Binding Integration Developer Resources' version='1.7.2.201803211255'>
+      <repositories size='7'>
+        <repository location='http://download.eclipse.org/viatra/updates/release/1.7.2'/>
+        <repository location='http://download.eclipse.org/releases/2021-03'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.2.1'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.4.1'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.3.2'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.5.0'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.6.0'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.viatra.query.sdk.feature.source.feature.group' name='VIATRA Query and Transformation SDK' version='1.7.2.201803211255'>
+      <repositories size='7'>
+        <repository location='http://download.eclipse.org/viatra/updates/release/1.7.2'/>
+        <repository location='http://download.eclipse.org/releases/2021-03'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.2.1'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.4.1'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.3.2'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.5.0'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.6.0'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.viatra.query.sdk.extensions.feature.feature.group' name='VIATRA Query and Transformation SDK Extensions (Incubation)' version='0.17.2.201803211255'>
+      <repositories size='7'>
+        <repository location='http://download.eclipse.org/viatra/updates/release/1.7.2'/>
+        <repository location='http://download.eclipse.org/releases/2021-03'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.2.1'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.4.1'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.3.2'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.5.0'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.6.0'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.viatra.addon.querybasedfeatures.runtime.feature.feature.group' name='VIATRA Query Based Feature Runtime' version='1.7.2.201803211255'>
+      <repositories size='7'>
+        <repository location='http://download.eclipse.org/viatra/updates/release/1.7.2'/>
+        <repository location='http://download.eclipse.org/releases/2021-03'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.2.1'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.4.1'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.3.2'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.5.0'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.6.0'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.viatra.addon.querybasedfeatures.runtime.feature.source.feature.group' name='VIATRA Query Based Feature Runtime Developer Resources' version='1.7.2.201803211255'>
+      <repositories size='7'>
+        <repository location='http://download.eclipse.org/viatra/updates/release/1.7.2'/>
+        <repository location='http://download.eclipse.org/releases/2021-03'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.2.1'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.4.1'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.3.2'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.5.0'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.6.0'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.viatra.query.runtime.feature.feature.group' name='VIATRA Query Runtime' version='1.7.2.201803211255'>
+      <repositories size='7'>
+        <repository location='http://download.eclipse.org/viatra/updates/release/1.7.2'/>
+        <repository location='http://download.eclipse.org/releases/2021-03'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.2.1'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.4.1'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.3.2'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.5.0'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.6.0'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.viatra.query.language.feature.feature.group' name='VIATRA Query Runtime - Pattern Language Support' version='1.7.2.201803211255'>
+      <repositories size='7'>
+        <repository location='http://download.eclipse.org/viatra/updates/release/1.7.2'/>
+        <repository location='http://download.eclipse.org/releases/2021-03'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.2.1'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.4.1'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.3.2'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.5.0'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.6.0'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.viatra.query.language.feature.source.feature.group' name='VIATRA Query Runtime - Pattern Language Support Developer Resources' version='1.7.2.201803211255'>
+      <repositories size='7'>
+        <repository location='http://download.eclipse.org/viatra/updates/release/1.7.2'/>
+        <repository location='http://download.eclipse.org/releases/2021-03'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.2.1'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.4.1'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.3.2'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.5.0'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.6.0'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.viatra.query.runtime.feature.source.feature.group' name='VIATRA Query Runtime Developer Resources' version='1.7.2.201803211255'>
+      <repositories size='7'>
+        <repository location='http://download.eclipse.org/viatra/updates/release/1.7.2'/>
+        <repository location='http://download.eclipse.org/releases/2021-03'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.2.1'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.4.1'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.3.2'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.5.0'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.6.0'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.viatra.query.sdk.feature.feature.group' name='VIATRA Query SDK without Sources' version='1.7.2.201803211255'>
+      <repositories size='7'>
+        <repository location='http://download.eclipse.org/viatra/updates/release/1.7.2'/>
+        <repository location='http://download.eclipse.org/releases/2021-03'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.2.1'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.4.1'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.3.2'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.5.0'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.6.0'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.viatra.query.testing.sdk.feature.feature.group' name='VIATRA Query Test Framework' version='1.7.2.201803211255'>
+      <repositories size='7'>
+        <repository location='http://download.eclipse.org/viatra/updates/release/1.7.2'/>
+        <repository location='http://download.eclipse.org/releases/2021-03'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.2.1'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.4.1'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.3.2'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.5.0'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.6.0'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.viatra.query.testing.sdk.feature.source.feature.group' name='VIATRA Query Test Framework Developer Resources' version='1.7.2.201803211255'>
+      <repositories size='7'>
+        <repository location='http://download.eclipse.org/viatra/updates/release/1.7.2'/>
+        <repository location='http://download.eclipse.org/releases/2021-03'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.2.1'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.4.1'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.3.2'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.5.0'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.6.0'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.viatra.transformation.runtime.debug.feature.feature.group' name='VIATRA Transformation Debugger Runtime (Incubation)' version='0.17.2.201803211255'>
+      <repositories size='7'>
+        <repository location='http://download.eclipse.org/viatra/updates/release/1.7.2'/>
+        <repository location='http://download.eclipse.org/releases/2021-03'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.2.1'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.4.1'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.3.2'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.5.0'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.6.0'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.viatra.transformation.debug.feature.feature.group' name='VIATRA Transformation Debugger SDK (Incubation)' version='0.17.2.201803211255'>
+      <repositories size='7'>
+        <repository location='http://download.eclipse.org/viatra/updates/release/1.7.2'/>
+        <repository location='http://download.eclipse.org/releases/2021-03'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.2.1'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.4.1'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.3.2'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.5.0'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.6.0'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.viatra.transformation.runtime.emf.feature.feature.group' name='VIATRA Transformation Engine' version='1.7.2.201803211255'>
+      <repositories size='7'>
+        <repository location='http://download.eclipse.org/viatra/updates/release/1.7.2'/>
+        <repository location='http://download.eclipse.org/releases/2021-03'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.2.1'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.4.1'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.3.2'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.5.0'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.6.0'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.viatra.transformation.runtime.emf.feature.source.feature.group' name='VIATRA Transformation Engine Developer Resources' version='1.7.2.201803211255'>
+      <repositories size='7'>
+        <repository location='http://download.eclipse.org/viatra/updates/release/1.7.2'/>
+        <repository location='http://download.eclipse.org/releases/2021-03'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.2.1'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.4.1'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.3.2'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.5.0'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.6.0'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.viatra.addon.validation.runtime.feature.feature.group' name='VIATRA Validation Framework Runtime' version='1.7.2.201803211255'>
+      <repositories size='7'>
+        <repository location='http://download.eclipse.org/viatra/updates/release/1.7.2'/>
+        <repository location='http://download.eclipse.org/releases/2021-03'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.2.1'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.4.1'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.3.2'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.5.0'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.6.0'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.viatra.addon.validation.runtime.feature.source.feature.group' name='VIATRA Validation Framework Runtime Developer Resources' version='1.7.2.201803211255'>
+      <repositories size='7'>
+        <repository location='http://download.eclipse.org/viatra/updates/release/1.7.2'/>
+        <repository location='http://download.eclipse.org/releases/2021-03'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.2.1'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.4.1'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.3.2'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.5.0'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.6.0'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.viatra.addon.viewers.runtime.feature.feature.group' name='VIATRA Viewers Runtime' version='0.17.2.201803211255'>
+      <repositories size='7'>
+        <repository location='http://download.eclipse.org/viatra/updates/release/1.7.2'/>
+        <repository location='http://download.eclipse.org/releases/2021-03'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.2.1'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.4.1'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.3.2'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.5.0'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.6.0'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.viatra.addon.viewers.runtime.zest.feature.feature.group' name='VIATRA Viewers Runtime - Zest Integration (Incubation)' version='0.17.2.201803211255'>
+      <repositories size='7'>
+        <repository location='http://download.eclipse.org/viatra/updates/release/1.7.2'/>
+        <repository location='http://download.eclipse.org/releases/2021-03'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.2.1'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.4.1'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.3.2'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.5.0'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.6.0'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.viatra.addon.viewers.runtime.feature.source.feature.group' name='VIATRA Viewers Runtime Developer Resources' version='0.17.2.201803211255'>
+      <repositories size='7'>
+        <repository location='http://download.eclipse.org/viatra/updates/release/1.7.2'/>
+        <repository location='http://download.eclipse.org/releases/2021-03'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.2.1'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.4.1'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.3.2'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.5.0'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.6.0'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.viatra.addon.viewers.tooling.feature.feature.group' name='VIATRA Viewers Tooling (Incubation)' version='0.17.2.201803211255'>
+      <repositories size='7'>
+        <repository location='http://download.eclipse.org/viatra/updates/release/1.7.2'/>
+        <repository location='http://download.eclipse.org/releases/2021-03'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.2.1'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.4.1'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.3.2'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.5.0'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.6.0'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.viatra.addon.viewers.tooling.feature.source.feature.group' name='VIATRA Viewers Tooling (Incubation) Developer Resources' version='0.17.2.201803211255'>
+      <repositories size='7'>
+        <repository location='http://download.eclipse.org/viatra/updates/release/1.7.2'/>
+        <repository location='http://download.eclipse.org/releases/2021-03'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.2.1'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.4.1'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.3.2'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.5.0'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.6.0'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.viatra.dse.feature.feature.group' name='VIATRA-DSE framework (Incubation)' version='0.17.2.201803211255'>
+      <repositories size='6'>
+        <repository location='http://download.eclipse.org/viatra/updates/release/1.7.2'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.2.1'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.4.1'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.3.2'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.5.0'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.6.0'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.viatra.dse.feature.source.feature.group' name='VIATRA-DSE framework (Incubation) Developer Resources' version='0.17.2.201803211255'>
+      <repositories size='6'>
+        <repository location='http://download.eclipse.org/viatra/updates/release/1.7.2'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.2.1'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.4.1'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.3.2'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.5.0'/>
+        <repository location='http://download.eclipse.org/viatra/updates/release/2.6.0'/>
+      </repositories>
+    </iu>
+  </ius>
+</p2f>
